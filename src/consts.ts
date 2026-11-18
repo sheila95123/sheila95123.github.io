@@ -3,8 +3,8 @@ export const SITE_DESCRIPTION = 'Notes from a beautiful place out in the country
 export const SITE_URL = process.env.SITE_URL || 'https://example.com';
 
 export const PORTRAIT: { light: string; dark?: string } | undefined = {
-  light: '/portrait-light.webp',
-  dark: '/portrait-dark.webp',
+  light: '/sheila.jpg',
+  dark: '/sheila.jpg',
 };
 
 export const LINKS = [
